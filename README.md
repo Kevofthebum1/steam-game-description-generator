@@ -9,6 +9,8 @@ The dataset contains 290 Steam games, including their genres and descriptions.
 * Training set: 232 games (80%)
 * Validation set: 58 games (20%)
 
+**Dataset Source:** [Steam Games Reviews and Rankings](https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings)
+
 ## Technologies
 
 * Python
